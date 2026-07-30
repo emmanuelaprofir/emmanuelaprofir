@@ -23,6 +23,3 @@
 <br/>
 
 </div>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=eufopla&color=341717&style=flat-square&label=PROFILE+VIEWS" />
-</p>
