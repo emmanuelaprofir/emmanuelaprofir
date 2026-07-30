@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=1800&pause=1000&color=c00c0c&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Emma+%E2%80%94+alias+Eufopla" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=2000&pause=1000&color=f3c7c7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Emmanuela+%E2%80%94+alias+Eufopla" />
 </h1>
 
 <h3 align="center">
