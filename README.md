@@ -17,8 +17,8 @@
 </div>
 <br>
 <h3 align="center">
-<a href="https://www.tonsite.com](http://51.254.223.198/portfolio/ep/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githube&logoColor=white" alt="Portfolio"></a>
+<a href="https://51.254.223.198/portfolio/ep/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githube&logoColor=white" alt="Portfolio"></a>
 
-<a href="https://www.linkedin.com/in/TON-PROFIL/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/TON-PROFIL/](https://www.linkedin.com/in/emmanuela-profir-034983371/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </h3>
 </div>
