@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="https://github.com/eufopla/eufopla/raw/main/assets/matrix-glitch.gif" width="100%"/>
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=2000&pause=1000&color=f3c7c7&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Emmanuela+%E2%80%94+alias+Eufopla" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=32&duration=2000&pause=1000&color=00b8ff&center=true&vCenter=true&width=800&lines=Emmanuela+Profir" />
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1800&pause=1000&color=fa0000&center=true&vCenter=true&width=700&lines=BackEnd+Developer;Soon%3A+Data+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=1800&pause=1000&color=85ddff&center=true&vCenter=true&width=700&lines=Etudiante+en+Dev;Bientot+Data+Engineer" />
 </h3>
 
 <br/>
@@ -16,10 +12,13 @@
 
 ##  COMMIT ACTIVITY
 
-![GitHub Contributions](https://ghchart.rshah.org/ea2f2f/eufopla)
+![GitHub Contributions](https://ghchart.rshah.org/0093cc/eufopla)
 
 </div>
+<br>
+<h3 align="center">
+<a href="https://www.tonsite.com](http://51.254.223.198/portfolio/ep/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githube&logoColor=white" alt="Portfolio"></a>
 
-<br/>
-
+<a href="https://www.linkedin.com/in/TON-PROFIL/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</h3>
 </div>
