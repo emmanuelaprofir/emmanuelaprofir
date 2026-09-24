@@ -12,7 +12,7 @@
 
 ##  COMMIT ACTIVITY
 
-![GitHub Contributions](https://ghchart.rshah.org/0093cc/eufopla)
+![GitHub Contributions](https://ghchart.rshah.org/0093cc/emmanuelaprofir)
 
 </div>
 <br>
